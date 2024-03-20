@@ -72,7 +72,6 @@ body {
 .aba-conteudo{
     display: none;
 }
-
 .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
@@ -81,6 +80,10 @@ body {
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
+}
+.contador{
+    font-size: 20px;
+    text-align: center;
 }
 
 @media screen and (min-width: 768px) {
